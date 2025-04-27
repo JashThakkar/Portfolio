@@ -1,6 +1,6 @@
 # Jash Thakkar Portfolio
 
-A minimal, black-and-white, 2D personal portfolio site built with plain HTML and CSS. It includes Home, Resume, Projects, Coursework, and Contact pages, all sharing a single stylesheet for consistent styling.
+A minimal, black-and-white, 2D personal portfolio site built with plain HTML and CSS. It includes Home, Resume, Coursework, Projects, and Contact pages, all sharing a single stylesheet for consistent styling.
 
 ## Files
 
@@ -16,7 +16,16 @@ A minimal, black-and-white, 2D personal portfolio site built with plain HTML and
   - **Projects** (Pop, Password Manager, Universal File Converter, Calculator)
   - **Skills & Tools** (programming languages, technologies, and workflows)
   - **Contact** links at the bottom (email, GitHub, LinkedIn)
-- Implements a simple hover‐dropdown under “Resume” that jumps to your Education section.
+- Implements a simple hover-dropdown under “Resume” linking to the PDF version of your resume.
+
+### `coursework.html`
+- **Coursework page**  
+- Lists your degree and expected graduation date.
+- **Relevant Coursework** section detailing key classes:
+  - Data Structures & Algorithms (Python)
+  - Principles of Computer Programming I & II (JavaScript, Python)
+  - Discrete Math, System-Level Programming, Computer Organization & Programming
+  - Physics I & II, Calculus I & II, Linear Algebra, Probability & Statistics
 
 ### `projects.html`
 - **Projects page**  
@@ -37,7 +46,7 @@ A minimal, black-and-white, 2D personal portfolio site built with plain HTML and
 ### `style.css`
 - **Global stylesheet**  
 - Defines layout and typography:
-  - **Header & Nav** (black background, white uppercase links, centered inline‐flex menu)
+  - **Header & Nav** (black background, white uppercase links, centered inline-flex menu)
   - **Dropdown menu** (single item under “Resume”, white background, light border, subtle shadow, centered under the link)
   - **Container** (max-width 800px, centered with padding)
   - **Typography** (consistent margins for headings, paragraphs, and lists)
