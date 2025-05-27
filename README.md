@@ -1,4 +1,4 @@
-# Jash Thakkar Portfolio
+# Jash Thakkar Portfolio (https://jashthakkar.github.io/Portfolio/)
 
 A minimal, black-and-white, 2D personal portfolio site built with plain HTML and CSS. It includes Home, Resume, Coursework, Projects, and Contact pages, all sharing a single stylesheet for consistent styling.
 
